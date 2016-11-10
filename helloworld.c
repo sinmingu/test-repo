@@ -1,3 +1,5 @@
+//For command line git tutorial
+//Local repository  
 #include<stdio.h>
 
 int main(void){
