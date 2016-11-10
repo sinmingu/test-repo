@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 //For command line git tutorial
-//Local repository  
+//First :  GitHub modification
+// Seceond : GitHub modification
 #include<stdio.h>
 
 int main(void){
