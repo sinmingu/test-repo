@@ -1,3 +1,5 @@
+//for command line git tutorial
+// GitHub modification
 #include<stdio.h>
 
 int main(void){
